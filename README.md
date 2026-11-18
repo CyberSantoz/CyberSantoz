@@ -6,7 +6,7 @@
 
 #
 
-Me chamoDemetrius, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e focado em trilhar meu caminho na área de **Cibersegurança (Cybersecurity)**, construindo minha base e aprendindo Python para entender a fundo como os sistemas funcionam e como protegê-los.
+Me chamo Demetrius, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas. Sou fascinado por tecnologia e focado em trilhar meu caminho na área de **Cibersegurança (Cybersecurity)**, construindo minha base e aprendindo Python para entender a fundo como os sistemas funcionam e como protegê-los.
  
 #
 
