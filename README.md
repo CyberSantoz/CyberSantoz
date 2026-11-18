@@ -1,15 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1¢er=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00FF66¢er=true&vCenter=true&width=350&lines=%3E_+CyberSantoz" alt="Typing SVG" />
 </div>
 
 #
 
-👋 Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas.
+👋 Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas com foco em **Cibersegurança** e **Python**.
+
 #
 
-<img align="right" alt="Anime GIF" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUwbG5ydm9kNWVhc2FpdnVqeHdxM3ZlNWJtdTd0bjBhN3NjZHV0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I2ZSFV5GO93jLVIjJR/giphy.gif">
+<img align="right" alt="Anime GIF" height="190px" src="https://media.giphy.com/media/I2ZSFV5GO93jLVIjJR/giphy.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -38,7 +37,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
