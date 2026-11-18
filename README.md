@@ -6,8 +6,7 @@
 
 #
 
-👋 Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas com foco em **Cibersegurança** e **Python**.
-
+👋 Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas.
 #
 
 <img align="right" alt="Anime GIF" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUwbG5ydm9kNWVhc2FpdnVqeHdxM3ZlNWJtdTd0bjBhN3NjZHV0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I2ZSFV5GO93jLVIjJR/giphy.gif">
