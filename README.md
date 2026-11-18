@@ -4,7 +4,7 @@
 
 #
 
-👋 Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas com foco em **Cibersegurança** e **Python**.
+ Olá, sou o **Demetrius**. Estudo Análise e Desenvolvimento de Sistemas.
 
 #
 
